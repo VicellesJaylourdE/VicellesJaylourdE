@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on saving the earth ****Space X****
 
-- 🌱 I’m currently learning tly learning ****Ionic + React + js.node/next.js, supabase/firebase****
+- 🌱 I’m currently learning the ****Ionic + React + js.node/next.js, supabase/firebase****
 
 - 💬 Ask me about ****My Skills****
 
